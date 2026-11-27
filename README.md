@@ -90,7 +90,7 @@ The notebook was developed in Google Colab; update the dataset path in the loadi
 
 ## Team & my role
 
-Final project for the Higher Technical Degree in Data Science & AI at IFTS N°11 (Buenos Aires, 2026), submitted as a team assignment (Group 8: Gabriel Mollis, Pedro Casa, Mariano Sileo, Andrés Francica).
+Final project for the AI Systems Modeling (Modelizado de Sistemas de Inteligencia Artificial) course in the Higher Technical Degree in Data Science & AI at IFTS N°11 (Buenos Aires, 2026), submitted as a team assignment (Group 8: Gabriel Mollis, Pedro Casa, Mariano Sileo, Andrés Francica).
 
 **My contributions:** I developed the technical work end to end — the data-integration ETL with NASA POWER and Georef, the exploratory analysis, the modeling and evaluation, the Streamlit app, and the technical report.
 
