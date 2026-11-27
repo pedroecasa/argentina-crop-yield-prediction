@@ -2,7 +2,7 @@
 
 Machine learning pipeline and interactive web app to estimate crop yield (kg/ha) at department level in Argentina, combining official agricultural statistics with 43 years of daily climate data.
 
-**▶ Live demo:** _coming soon (Streamlit Community Cloud)_
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://crop-yield-argentina.streamlit.app/)
 
 ![Data pipeline](images/data_pipeline.png)
 
